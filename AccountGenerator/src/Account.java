@@ -9,7 +9,7 @@ public class Account {
         System.out.println("Enter password: ");
         String password = sc.nextLine();
 
-        if(username.equals("lenard070500") && password.equals("ash05")){
+        if(username.equals("lnrd05") && password.equals("lnrd05")){
             System.out.println("Welcome User!");
             break;
         }else {
