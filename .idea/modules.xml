@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game/AAAAA.iml" filepath="$PROJECT_DIR$/Game/AAAAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccountGenerator/AccountGenerator.iml" filepath="$PROJECT_DIR$/AccountGenerator/AccountGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alarm/Alarm.iml" filepath="$PROJECT_DIR$/Alarm/Alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Astro/Astro.iml" filepath="$PROJECT_DIR$/Astro/Astro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blood/Blood.iml" filepath="$PROJECT_DIR$/Blood/Blood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar/Calendar.iml" filepath="$PROJECT_DIR$/Calendar/Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsoleGame/ConsoleGame.iml" filepath="$PROJECT_DIR$/ConsoleGame/ConsoleGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" filepath="$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encaps/Encaps.iml" filepath="$PROJECT_DIR$/Encaps/Encaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPractice/JPractice.iml" filepath="$PROJECT_DIR$/JPractice/JPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopJava/LoopJava.iml" filepath="$PROJECT_DIR$/LoopJava/LoopJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main.iml" filepath="$PROJECT_DIR$/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolyMorph/PolyMorph.iml" filepath="$PROJECT_DIR$/PolyMorph/PolyMorph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefdataTypes/RefdataTypes.iml" filepath="$PROJECT_DIR$/RefdataTypes/RefdataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunAnimal/RunAnimal.iml" filepath="$PROJECT_DIR$/RunAnimal/RunAnimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TakingUserInput/TakingUserInput.iml" filepath="$PROJECT_DIR$/TakingUserInput/TakingUserInput.iml" />
+    </modules>
+  </component>
+</project>
